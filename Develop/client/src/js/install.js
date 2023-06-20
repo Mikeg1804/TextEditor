@@ -68,3 +68,5 @@ window.addEventListener('appinstalled', (event) => {
 // window.addEventListener('appinstalled', (event) => {
 //     console.log('the installation was successfull');
 // });
+
+// console.log();
